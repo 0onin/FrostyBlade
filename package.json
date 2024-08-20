@@ -1,0 +1,17 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "1",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "onin",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^32.0.0"
+  }
+}
